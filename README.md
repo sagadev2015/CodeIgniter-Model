@@ -6,7 +6,7 @@
     <br>
 </p>
 
-CodeIgniter 3 Active Record (ORM) Standard Model supported Read & Write Connections 
+CodeIgniter 3 Active Record (ORM) Standard Model supported Read & Write Connections  
 
 [![Latest Stable Version](https://poser.pugx.org/yidas/codeigniter-model/v/stable?format=flat-square)](https://packagist.org/packages/yidas/codeigniter-model)
 [![License](https://poser.pugx.org/yidas/codeigniter-model/license?format=flat-square)](https://packagist.org/packages/yidas/codeigniter-model)
