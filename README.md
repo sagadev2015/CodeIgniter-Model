@@ -2,7 +2,7 @@
     <a href="https://codeigniter.com/" target="_blank">
         <img src="https://codeigniter.com/assets/images/ci-logo-big.png" height="100px">
     </a>
-    <h1 align="center">CodeIgniter Model</h1>
+    <h1 align="center">CodeIgniter Model</h1> 
     <br>
 </p>
 
