@@ -6,7 +6,7 @@
     "type": "library",
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/yidas/codeigniter-model/issues",
+        "issues": "https://github.com/yidas/codeigniter-model/issues", 
         "source": "https://github.com/yidas/codeigniter-model"
     },
     "minimum-stability": "stable",
